@@ -12,6 +12,6 @@ As part of my commitment to provide a better life for my family of five as a hus
 
 At the time of this writing, I'm working with JavaScript in an effort to prepare for front end web development-oriented interviews.
 
-#### _Are you streaming your work on Twitch/Youtube?_
+#### _Are you streaming your work on Twitch/YouTube?_
 
 This is sitting in the back of my mind at the moment. I have a strong inclination to try but a lot of planning remaining to ensure a productive and fruitful experience can be had by all.
