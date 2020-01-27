@@ -15,3 +15,12 @@ At the time of this writing, I'm working with JavaScript in an effort to prepare
 #### _Are you streaming your work on Twitch/YouTube?_
 
 This is sitting in the back of my mind at the moment. I have a strong inclination to try but a lot of planning remaining to ensure a productive and fruitful experience can be had by all.
+
+#### _Where could I see your solution code?_
+
+Following is a list of services through which I've solved at least one puzzle or problem. If applicable, a link will be provided to show all such solutions for that service. This list will be updated often, so do check back from time to time!
+
+_Note:_ The code I have hosted here will contain my long-form comments, while the solutions hosted on these services will most likely have just the code itself along with any explanatory comments as necessary.
+
+**Services**
++ <a href="https://www.codewars.com/collections/5e2f5064487459002555db27">Codewars</a>
